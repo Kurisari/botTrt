@@ -2,7 +2,7 @@ module.exports = {
     app: {
         px: 'trt/',
         token: 'ODkzMzE4NDEyNTYwOTI0Njkz.YVZtmg.wR_YhMQZrd7epndtwQcx6OX0Fd8',
-        watching: 'trt/help',
+        playing: 'trt/help',
     },
 
     opt: {
